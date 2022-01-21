@@ -2,6 +2,7 @@
 Simple duplicated line remover
 
 **Completed Task**
+
 https://imgur.com/u8RKAeD
 
 [+] Super fast
